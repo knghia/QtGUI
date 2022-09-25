@@ -4,6 +4,6 @@
 
 ![image info](./Image/Serial.jpg)
 
-## <span style="color:blue">1. Serial Plot</span>
+## <span style="color:blue">2. Serial Plot</span>
 
 ![image info](./Image/serial_plot.jpg)
