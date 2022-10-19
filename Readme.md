@@ -8,6 +8,13 @@
 
 ![image info](./Image/serial_plot.jpg)
 
-## <span style="color:red">3. Opengl 2 Line</span>
+## <span style="color:red">3. Opengl</span>
+
+### <span style="color:blue">3.1. Line</span>
 
 ![image info](./Image/OpenGL_Line.jpg)
+
+### <span style="color:blue">3.2. DCMotor</span>
+
+![image info](./Image/dc_motor.jpg)
+
